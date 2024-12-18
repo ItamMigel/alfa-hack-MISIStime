@@ -37,14 +37,11 @@
 Запустите соответствующие Jupyter-ноутбуки для задачи бинарной классификации.
 
 ## Технологии
-- Python — язык программирования для реализации всех компонентов.
-- scikit-learn — инструменты для обработки данных, построения моделей и их оценки.
-- LightAutoML — библиотека для автоматического машинного обучения.
-- AutoGluon — мощный инструмент для AutoML с поддержкой различных задач.
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)
-![LightAutoML](https://img.shields.io/badge/LightAutoML-blueviolet)
-![AutoGluon](https://img.shields.io/badge/AutoGluon-darkgreen)
+- ![Python](https://img.shields.io/badge/Python-3.x-blue) — язык программирования для реализации всех компонентов.
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange) — инструменты для обработки данных, построения моделей и их оценки.
+- ![LightAutoML](https://img.shields.io/badge/LightAutoML-blueviolet) — библиотека для автоматического машинного обучения.
+- ![AutoGluon](https://img.shields.io/badge/AutoGluon-darkgreen) — мощный инструмент для AutoML с поддержкой различных задач.
+
 
 ## Команда разработки
 - Адиль Хабибуллин (БПМ 23-2) — ML
